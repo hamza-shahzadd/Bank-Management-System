@@ -1,0 +1,9 @@
+
+
+Customer name: hamza shahzad
+Customer Id: 1694
+balance : 200000.0
+
+Customer name: huzaifa 
+Customer Id: 1186
+balance : 30000.0

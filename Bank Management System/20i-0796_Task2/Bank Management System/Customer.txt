@@ -1,0 +1,21 @@
+
+
+Customer name: hamza shahzad
+Customer address: dha 1
+Customer phone number: 03369884546
+Customer Id: 1694
+
+Customer name: ali ahmed
+Customer address: dha 2
+Customer phone number: 987663
+Customer Id: 1635
+
+Customer name: huzaifa 
+Customer address: askari 14
+Customer phone number: 03314321678
+Customer Id: 1186
+
+Customer name: aqib
+Customer address: lahore
+Customer phone number: 03316789065
+Customer Id: 1380

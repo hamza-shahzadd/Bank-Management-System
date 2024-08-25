@@ -1,0 +1,9 @@
+
+
+Customer name: ali ahmed
+Customer Id: 1635
+balance : 80000.0
+
+Customer name: aqib
+Customer Id: 1380
+balance : 20000.0
